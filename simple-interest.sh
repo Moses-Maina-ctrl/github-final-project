@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   #  Moses-Maina-ctrl
 
    # Input:
    # p, principal amount
